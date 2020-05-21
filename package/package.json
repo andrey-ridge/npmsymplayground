@@ -1,0 +1,13 @@
+{
+	"private": true,
+	"name": "Hoola",
+	"scripts": {
+		"test": "jest"
+	},
+	"devDependencies": {
+		"jest": "^25",
+		"lodash": "^4.17.15",
+		"typescript": "^3.9.3",
+		"webpack": "^4.43.0"
+	}
+}
